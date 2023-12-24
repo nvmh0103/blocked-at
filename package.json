@@ -1,6 +1,6 @@
 {
-  "name": "blocked-at",
-  "version": "1.2.0",
+  "name": "blocked-at-node-16",
+  "version": "1.3.0",
   "description": "Detects node eventloop block and reports where it started",
   "main": "index.js",
   "scripts": {
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/naugtur/blocked-at.git"
+    "url": "https://github.com/nvmh0103/blocked-at"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/naugtur/blocked-at/issues"
+    "url": "https://github.com/nvmh0103/blocked-at"
   },
-  "homepage": "https://github.com/naugtur/blocked-at#readme",
+  "homepage": "https://github.com/nvmh0103/blocked-at",
   "devDependencies": {
     "pre-commit": "^1.2.2",
     "standard": "^14.0.2"
